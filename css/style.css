@@ -1,0 +1,74 @@
+.header{
+    background-color: bisque;
+    text-align: center;
+    width: 30%;
+    height: 70PX;
+    float: left;
+
+}
+.headerbanner{
+    background-color: cyan;
+    width: 70%;
+    height: 70px;
+    float: right;
+    text-align: center;
+}
+.banner{
+    background-color: blueviolet;
+    width: 100%;
+    height: 55PX;
+    text-align: center;
+    overflow: hidden;
+}
+.left1{
+background-color: brown;
+width: 20%;
+height:400px;
+text-align: center;
+float: left;
+}
+.right1{
+    background-color: cornflowerblue;
+    width: 60%;
+    height: 100px;
+    text-align: center;
+    float: left;
+}
+
+.item3{
+    background-color: darkgrey;
+    height: 400px;
+    width: 20%;
+    float: right;
+    text-align: center;
+}
+.leftblock{
+    background-color: darkred;
+    height: 100px;
+    width: 30%;
+    text-align: center;
+    float: left;
+}
+.rightblock{
+    background-color: darkseagreen;
+    height: 100px;
+    width: 30%;
+    text-align: center;
+    float: left;
+
+}
+.module{
+    background-color: darkslateblue;
+    text-align: center;
+    width: 60%;
+    height: 200px;
+    text-align: center;
+    float: left;
+}
+.footer{
+    background-color: gray;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    float: left;
+}
